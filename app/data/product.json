@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Combo 1",
+    "description": "Papas, 4 Alitas, 2 Salsas",
+    "price": 3.5,
+    "image": "https://copacabanacubancuisine.com/wp-content/uploads/2023/12/4-Alitas-de-Pollo-con-papas-fritas-1200x800-1.webp"
+  },
+  {
+    "id": 2,
+    "name": "Combo 2",
+    "description": "Papas, 6 Alitas, 3 Salsas",
+    "price": 6.0,
+    "image": "https://islaperico.com/wp-content/uploads/2020/12/PICA-POLLO-2.png"
+  },
+  {
+    "id": 3,
+    "name": "Combo 3",
+    "description": "Papas, 10 Alitas, 3 Salsas",
+    "price": 9.5,
+    "image": "https://i.pinimg.com/736x/61/bc/d5/61bcd5210569c355264988bc651e1361.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Picadas",
+    "description": "Papas, Pollo",
+    "price": 2.5,
+    "image": "https://anavelblog.files.wordpress.com/2016/03/sal.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Picadas Mixtas",
+    "description": "Papas, Pollo, Carne",
+    "price": 3.0,
+    "image": "https://i.ytimg.com/vi/j6LtohLeaRU/maxresdefault.jpg"
+  }
+]
